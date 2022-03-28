@@ -10,7 +10,7 @@ import UIKit
 
 
 @main
-struct ScanAppApp: App {
+struct ScanApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
